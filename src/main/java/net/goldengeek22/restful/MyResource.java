@@ -1,4 +1,4 @@
-package net.goldengeek22;
+package net.goldengeek22.restful;
 
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;
